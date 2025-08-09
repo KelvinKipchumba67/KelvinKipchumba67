@@ -20,29 +20,35 @@
 ---
 
 ## 📌 Featured Projects
-- [**Flask Blog App**](https://github.com/KelvinKipchumba67/flask-blog) — A blog platform with authentication, CRUD features, and SQLite  
-- [**Portfolio Website**](https://github.com/KelvinKipchumba67/portfolio) — My personal portfolio built with HTML, CSS, and Tailwind  
-- [**API Integration Project**](https://github.com/KelvinKipchumba67/api-demo) — Fetching and displaying live API data
-
+- [**Flask Web App**](https://github.com/KelvinKipchumba67/flask-blog) — A blog platform with authentication, CRUD features, and SQLite  
+- [**Portfolio Website**](https://github.com/KelvinKipchumba67/Plp-portfolio-hackathon) — My personal portfolio built with HTML and CSS 
+- [**Password Generator**](https://github.com/KelvinKipchumba67/password-generator) — A simple web app built with html, css and javascript
 ---
 
 ## 🌱 Currently Learning
 - **DevOps Tools:** Docker, CI/CD, GitHub Actions  
 - **Advanced Flask:** Blueprints, authentication, and REST APIs  
 - **Front-end Frameworks:** React with TailwindCSS  
-
+- **Python:*
 ---
 
 ## 📊 GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)
+////
+## 📊 GitHub Stats
+![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=KelvinKipchumba67&theme=radical&hide_border=true)  
+![Kelvin's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvinKipchumba67&theme=react-dark)
+
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KelvinKipchumba-blue?logo=linkedin)](https://www.linkedin.com/)  
-📧 **Email:** yourname@email.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KelvinKipchumba-blue?logo=linkedin)](https://www.linkedin.com/in/kelvin-kipchumba-a03980332/)  
+📧 **Email:** kelvinkipchumba935@gmail.com  
 
 ---
-⭐ *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
+⭐ *Code is like humor. When you have to explain it, it’s bad.* — Cory House
 
