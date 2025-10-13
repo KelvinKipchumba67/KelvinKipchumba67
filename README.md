@@ -1,4 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=700&lines=HHi%2C+I'm+Kelvin+Kipchumba+%7C+Full-Stack+Developer;Aspiring+DevOps+Engineer;Building+clean%2C+scalable+solutions+✨)
+## Hi 👋, I'm Kelvin Kipchumba
+💻 Full-Stack Developer | Aspiring DevOps Engineer 🚀  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C7FF&width=550&lines=Hi%2C+I'm+Kelvin+Kipchumba+%7C+Full-Stack+Developer;Aspiring+DevOps+Engineer;Building+clean%2C+scalable+solutions+🚀)
 
 
 
