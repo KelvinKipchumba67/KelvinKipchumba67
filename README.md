@@ -1,5 +1,4 @@
 ## Hi 👋, I'm Kelvin Kipchumba
-💻 Full-Stack Developer | Aspiring DevOps Engineer 🚀  
 
 
 
