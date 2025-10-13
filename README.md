@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Kelvin Kipchumba  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kelvin!;Full-Stack+Developer;Welcome+to+my+Profile!)
+
 
 🚀 **Aspiring Full-Stack & DevOps Engineer**  
 💻 Passionate about building web apps with **Flask**, **React**, and APIs  
