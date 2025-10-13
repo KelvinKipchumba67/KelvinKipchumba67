@@ -1,4 +1,9 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kelvin Kipchumba;Full-Stack+Developer and Aspiring DevOps Engineer;Welcome+to+my+Profile!)
+<p align="center">
+  <a href="https://github.com/kelvinkipchumba">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C7FF&center=true&vCenter=true&width=700&lines=Kelvin+Kipchumba+%7C+Full-Stack+Developer;Aspiring+DevOps+Engineer;Building+clean%2C+scalable+solutions+🚀" alt="Typing SVG" />
+  </a>
+</p>
+
 
 
 🚀 **Aspiring Full-Stack & DevOps Engineer**  
