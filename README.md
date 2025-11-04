@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**Flask Web App**](https://github.com/KelvinKipchumba67/flask-blog) — A blog platform with authentication, CRUD features, and SQLite  
+- [**Flask Web App**]([https://github.com/KelvinKipchumba67/flask-blog](https://github.com/RayOgeto/kool-projekt.git)) — A blog platform with authentication, CRUD features, and SQLite  
 - [**Portfolio Website**](https://github.com/KelvinKipchumba67/Plp-portfolio-hackathon) — My personal portfolio built with HTML and CSS 
 - [**Task Manager web app**](https://task-quest-task-manager.vercel.app/) — A modern, responsive web application for task management with Firebase authentication and real-time data visualization.
 ---
