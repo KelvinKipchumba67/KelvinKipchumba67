@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Kelvin Kipchumba
 
 
-
-🚀 **Aspiring Full-Stack & DevOps Engineer**  
+Full stack Developer
+🚀 **Aspiring  DevOps Engineer**
 💻 Passionate about building web apps with **Flask**, **React**, and APIs  
 🌱 Currently mastering **Flask**, **React**, and **DevOps tools**  
 🎯 Goal: To create impactful, scalable solutions and grow into a top-tier software engineer
