@@ -31,7 +31,7 @@ Full stack Developer
 - **DevOps Tools:** Docker, CI/CD, GitHub Actions  
 - **Advanced Flask:** Blueprints, authentication, and REST APIs  
 - **Front-end Frameworks:** React with TailwindCSS  
-- **Python*
+- **Python:*
 ---
 
 ## 📊 GitHub Stats
