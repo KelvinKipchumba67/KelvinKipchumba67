@@ -23,8 +23,9 @@ Full stack Developer
 
 ## 📌 Featured Projects
 - [**Pulse Square**](https://github.com/KelvinKipchumba67/PulseSquare) — PulseSquare is a MERN-based platform that helps users find reliable local services  
-- [**Portfolio Website**](https://github.com/KelvinKipchumba67/Plp-portfolio-hackathon) — My personal portfolio built with HTML and CSS 
+- [**Portfolio Website**]([(https://www.kelvinkipchumba.dev/)]) — My personal portfolio built with HTML, CSS and Javascript 
 - [**Task Manager web app**](https://task-quest-task-manager.vercel.app/) — A modern, responsive web application for task management with Firebase authentication and real-time data visualization.
+- [**Book club web app**]([(https://nouvel-brc.vercel.app/)) — A modern, responsive web application for a book reading club built with react and firebase for authentication
 ---
 
 ## 🌱 Currently Learning
