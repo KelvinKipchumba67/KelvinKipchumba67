@@ -9,7 +9,7 @@ Full stack Developer
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.x-lightgrey)
 ![SQLite](https://img.shields.io/badge/SQLite-3-blue)
