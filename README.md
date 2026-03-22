@@ -28,7 +28,7 @@ Goal- To create impactful, scalable solutions and grow into a top-tier software 
 - [**Book club web app**](https://nouvel-brc.vercel.app/) — A modern, responsive web application for a book reading club built with react and firebase for authentication
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - **DevOps Tools:** Docker, CI/CD, GitHub Actions  
 - **Advanced Flask:** Blueprints, authentication, and REST APIs  
 - **Front-end Frameworks:** React with TailwindCSS  
@@ -49,5 +49,5 @@ Goal- To create impactful, scalable solutions and grow into a top-tier software 
 📧 **Email:** kelvinkipchumba935@gmail.com  
 
 ---
-⭐ *Code is like humor. When you have to explain it, it’s bad.* — Cory House
+⭐ *Code is like humor. When you have to explain it, it’s bad.* - Cory House
 
