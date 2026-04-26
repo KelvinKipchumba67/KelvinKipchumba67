@@ -35,7 +35,7 @@ Goal- To create impactful, scalable solutions and grow into a top-tier software 
 - **Python:*
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=KelvinKipchumba67&theme=radical&hide_border=true)  
