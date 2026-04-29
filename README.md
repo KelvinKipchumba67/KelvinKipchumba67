@@ -43,7 +43,7 @@ Goal- To create impactful, scalable solutions and grow into a top-tier software 
 
 
 ---
-
+![Visitor Count](https://profile-counter.glitch.me/{KelvinKipchumba67}/count.svg)   
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KelvinKipchumba-blue?logo=linkedin)](https://www.linkedin.com/in/kelvin-kipchumba-a03980332/)  
 📧 **Email:** kelvinkipchumba935@gmail.com  
