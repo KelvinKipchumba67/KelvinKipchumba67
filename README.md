@@ -32,7 +32,7 @@ Goal- To create impactful, scalable solutions and grow into a top-tier software 
 - **DevOps Tools:** Docker, CI/CD, GitHub Actions  
 - **Advanced Flask:** Blueprints, authentication, and REST APIs  
 - **Front-end Frameworks:** React with TailwindCSS
-- **Java.Springboot
+- **Java.Springboot**
 - **Python:*
 ---
 
