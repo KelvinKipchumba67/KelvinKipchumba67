@@ -2,10 +2,10 @@
 
 
 Full stack Developer  
-**Aspiring  Software & DevOps Engineer**  
+**Fullstack developer & Aspiring DevOps Engineer & Network Engineer**  
 Passionate about building web apps with **Flask**, **MERN STACK**, and APIs  
 Currently mastering **Flask/Django**, **React**, and **DevOps tools**  
-Goal- To create impactful, scalable solutions and grow into a top-tier software engineer
+Goal- To create impactful, scalable solutions.
 
 ---
 
