@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Kelvin Kipchumba
 
-
-Full stack Developer  
 **Fullstack developer & Aspiring DevOps Engineer & Network Engineer**  
 Passionate about building web apps with **Flask**, **MERN STACK**, and APIs  
 Currently mastering **Flask/Django**, **React**, and **DevOps tools**  
