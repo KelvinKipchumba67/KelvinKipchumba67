@@ -23,7 +23,8 @@ Goal- To create impactful, scalable solutions.
 
 ## Featured Projects
 - [**Pulse Square**](https://github.com/KelvinKipchumba67/PulseSquare); PulseSquare is a MERN-based platform that helps users find reliable local services  
-- [**Portfolio Website**](https://www.kelvinkipchumba.dev/); My personal portfolio built with HTML, CSS and Javascript 
+- [**Portfolio Website**](https://www.kelvinkipchumba.dev/); My personal portfolio built with HTML, CSS and Javascript
+- [**Prep**](https://prep-omega-three.vercel.app/); PrepWise Lite is a simple AI-powered study planner where students enter a subject, topics, and exam date. The app generates a personalized study schedule and stores it for later use.
 - [**Task Manager web app**](https://task-quest-task-manager.vercel.app/); A modern, responsive web application for task management with Firebase authentication and real-time data visualization.
 - [**Book club web app**](https://nouvel-brc.vercel.app/); A modern, responsive web application for a book reading club built with react and firebase for authentication
 ---
