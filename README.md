@@ -34,6 +34,7 @@ Goal- To create impactful, scalable solutions.
 - **Front-end Frameworks:** React with TailwindCSS
 - **Java.Springboot**
 - **Python**
+- **Networking**
 ---
 
 ## GitHub Stats
