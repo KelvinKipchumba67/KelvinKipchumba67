@@ -27,6 +27,10 @@ Goal- To create impactful, scalable solutions.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
@@ -36,6 +40,7 @@ Goal- To create impactful, scalable solutions.
 - [**Prep**](https://prep-omega-three.vercel.app/); Prep is a simple AI-powered study planner where students enter a subject, topics, and exam date. The app generates a personalized study schedule and stores it for later use.
 - [**Task Manager web app**](https://task-quest-task-manager.vercel.app/); A modern, responsive web application for task management with Firebase authentication and real-time data visualization.
 - [**Book club web app**](https://nouvel-brc.vercel.app/); A modern, responsive web application for a book reading club built with react and firebase for authentication
+- [**Sales Revenue Regression**](https://nouvel-brc.vercel.app/); A machine learning workflow to predict sales revenue based on various marketing and sales features. It covers data generation, exploratory data analysis (EDA), model training, evaluation, hyperparameter tuning, and model persistence.
 ---
 
 ## Currently Learning
