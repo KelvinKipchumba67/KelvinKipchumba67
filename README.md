@@ -53,7 +53,7 @@ Goal- To create impactful, scalable solutions.
 ---
 
 ## GitHub Stats
-![Kelvin's GitHub Stats](https://github-readme-stats-ten-silk-21.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)
+![Kelvin's GitHub Stats](https://github-readme-stats-ten-silk-21.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical&v=2)
 ![Top Languages](https://github-readme-stats-ten-silk-21.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KelvinKipchumba67&theme=radical&hide_border=true)  
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvinKipchumba67&theme=react-dark)
