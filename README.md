@@ -53,14 +53,14 @@ Goal- To create impactful, scalable solutions.
 ---
 
 ## GitHub Stats
-![Kelvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)  
+![Kelvin's GitHub Stats](https://github-readme-stats-ten-silk-21.vercel.app/api?username=KelvinKipchumba67&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-ten-silk-21.vercel.app/api/top-langs/?username=KelvinKipchumba67&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=KelvinKipchumba67&theme=radical&hide_border=true)  
 ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvinKipchumba67&theme=react-dark)
 
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{KelvinKipchumba67}/count.svg)   
+![Visitor Count](https://komarev.com/ghpvc/?username=KelvinKipchumba67&color=0ee4c4&style=flat-square)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KelvinKipchumba-blue?logo=linkedin)](https://www.linkedin.com/in/kelvin-kipchumba-a03980332/)  
 📧 **Email:** kelvinkipchumba935@gmail.com  
