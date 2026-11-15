@@ -38,7 +38,7 @@ Goal- To create impactful, scalable solutions.
 ## Featured Projects
 - [**Comskills**](https://www.comskills.site/); Comskill is a web app for anyone who wants to speak with more clarity and confidence. You record yourself in the browser, and Comskill measures how you delivered it: your pace, your filler words, your pauses and how steady you were. It also gives you a transcript and plain-language coaching on what went well and what to work on.
 - [**Pulse Square**](https://github.com/KelvinKipchumba67/PulseSquare); PulseSquare is a MERN-based platform that helps users find reliable local services  
-- [**Prep**](https://prep-omega-three.vercel.app/); Prep is a simple AI-powered study planner where students enter a subject, topics, and exam date. The app generates a personalized study schedule and stores it for later use.
+- [**Prep**](https://studdyprep.vercel.app/); Prep is a simple AI-powered study planner where students enter a subject, topics, and exam date. The app generates a personalized study schedule and stores it for later use.
 - [**Task Manager web app**](https://task-quest-task-manager.vercel.app/); A modern, responsive web application for task management with Firebase authentication and real-time data visualization.
 - [**Book club web app**](https://nouvel-brc.vercel.app/); A modern, responsive web application for a book reading club built with react and firebase for authentication
 - [**Sales Revenue Regression**](https://github.com/KelvinKipchumba67/SalesRevenueRegression); A machine learning workflow to predict sales revenue based on various marketing and sales features. It covers data generation, exploratory data analysis (EDA), model training, evaluation, hyperparameter tuning, and model persistence.
