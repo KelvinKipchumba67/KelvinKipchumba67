@@ -1,8 +1,10 @@
 ## Hi, I'm Kelvin Kipchumba
 
-**Fullstack Engineer, Aspiring DevOps & Network Engineer**  
-Passionate about building web apps with **Flask**, **MERN STACK**, **NEXTJS**, **REACT**, and APIs  
-Currently mastering **Flask/Django**, **React**, **Networking** and **DevOps tools**  
+**Fullstack Engineer | Network Engineer and aspiring DevOps engineer**  
+Passionate about building systems, APIs and applications with **Flask**, **MERN STACK**, **NEXTJS**, **REACT** and many more.
+
+Currently mastering **Django**, **React**, **Networking** and **DevOps tools** 
+
 Goal- To create impactful, scalable solutions.
 
 ---
